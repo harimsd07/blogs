@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Terminal</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Terminal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 07 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Blog</title>
+      <link>/posts/posts/my-first-blog/</link>
+      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
+      <guid>/posts/posts/my-first-blog/</guid>
+      <description>&lt;p&gt;Hello, internet folks!!! Today is my first blog post.In this post, I&amp;rsquo;ll simply explain why I began a blog; it&amp;rsquo;s a simple automated blog created with the help of Python scripts. Actually, this blog is primarily focused on the stuff I consume and the things I learn through the internet. It will be similar to my record of what I have studied and what interests me on the internet, which I would like to share with others who use the web.I&amp;rsquo;m excited to introduce my blogs to the internet.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Trial for posting a Blog</title>
+      <link>/posts/posts/posts/posting-trial/</link>
+      <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
+      <guid>/posts/posts/posts/posting-trial/</guid>
+      <description>&lt;p&gt;![[Pasted image 20250506201617.png]]&lt;/p&gt;&#xA;&lt;p&gt;Final Testing for blog post&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First Blog</title>
+      <link>/posts/posts/posts/my-first-blog/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>/posts/posts/posts/my-first-blog/</guid>
+      <description>&lt;p&gt;Hello Everyone ! Welcome to my automated blog which run using scripts&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;![[Pasted image 20250501201610.png]]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Second Blog</title>
+      <link>/posts/posts/posts/second-blog/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>/posts/posts/posts/second-blog/</guid>
+      <description>&lt;p&gt;![[Pasted image 20250501212756.png]]&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
